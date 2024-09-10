@@ -1,0 +1,12 @@
+creditCard = https://drive.google.com/file/d/1b9vHFln48TRywC-o_FhKw-GMXH-ZDxbK/view?usp=drive_link  
+
+videos = https://drive.google.com/file/d/1UQfnbMCDkrAcaHrNPogETC5JjBFs2a6b/view?usp=drive_link
+
+
+comandos = 
+    git commit --amend
+    git reset HEAD
+    git rebase --continue
+    git rm
+    git rm --cached
+    git show
