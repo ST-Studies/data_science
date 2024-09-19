@@ -9,7 +9,7 @@ __pycache__/
 *videos
 *videos*.zip
 */creditcard.csv
-envi/*
+*/envi/*
 */*.png
 
 # Distribution / packaging
