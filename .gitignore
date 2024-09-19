@@ -6,8 +6,8 @@ __pycache__/
 # C extensions
 *.so
 
-*/videos/
-*/videos*.zip
+*videos
+*videos*.zip
 */creditcard.csv
 envi/*
 */*.png
